@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Francesco",
+                "last": "Nägele"
+            },
+            "location": {
+                "street": {
+                    "number": 7610,
+                    "name": "Schillerstraße"
+                },
+                "city": "Ludwigsburg",
+                "state": "Hessen",
+                "country": "Germany",
+                "postcode": 64580,
+                "coordinates": {
+                    "latitude": "-49.3968",
+                    "longitude": "-77.4679"
+                },
+                "timezone": {
+                    "offset": "+1:00",
+                    "description": "Brussels, Copenhagen, Madrid, Paris"
+                }
+            },
+            "email": "francesco.nagele@example.com",
+            "login": {
+                "uuid": "4a7cd869-064a-42eb-872e-e69d34b6f695",
+                "username": "blackwolf903",
+                "password": "ipswich",
+                "salt": "cAsNl4Ta",
+                "md5": "9d6ebd318100c59210ff6cdb4490855a",
+                "sha1": "335e7e529d58f940c07837129ee11afea1058f80",
+                "sha256": "bfc3d7d23e78a9e6c9d208171a2725d1624815fff76ea34b7ea05a7f096238c6"
+            },
+            "dob": {
+                "date": "1969-06-03T02:03:47.172Z",
+                "age": 53
+            },
+            "registered": {
+                "date": "2014-05-15T17:08:19.872Z",
+                "age": 8
+            },
+            "phone": "0227-3936395",
+            "cell": "0171-2198934",
+            "id": {
+                "name": "SVNR",
+                "value": "45 020669 N 133"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/85.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "47226e65d13d2266",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
